@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Certificate-Monitor.git
+git clone https://github.com/AetherCodeHQ/Certificate-Monitor.git
 cd Certificate-Monitor
 ```
 
